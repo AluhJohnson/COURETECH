@@ -1,0 +1,16 @@
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\bin\Debug\net5.0\ArrayDSAlgo.exe
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\bin\Debug\net5.0\ArrayDSAlgo.deps.json
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\bin\Debug\net5.0\ArrayDSAlgo.runtimeconfig.json
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\bin\Debug\net5.0\ArrayDSAlgo.runtimeconfig.dev.json
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\bin\Debug\net5.0\ArrayDSAlgo.dll
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\bin\Debug\net5.0\ref\ArrayDSAlgo.dll
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\bin\Debug\net5.0\ArrayDSAlgo.pdb
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ArrayDSAlgo.csprojAssemblyReference.cache
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ArrayDSAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ArrayDSAlgo.AssemblyInfoInputs.cache
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ArrayDSAlgo.AssemblyInfo.cs
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ArrayDSAlgo.csproj.CoreCompileInputs.cache
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ArrayDSAlgo.dll
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ref\ArrayDSAlgo.dll
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ArrayDSAlgo.pdb
+C:\Users\ALUHJOHNSON\source\repos\COURETECHNOLOGIES\ArrayDSAlgo\obj\Debug\net5.0\ArrayDSAlgo.genruntimeconfig.cache
